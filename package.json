@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_modulo_tres",
+  "version": "1.0.0",
+  "description": "proyecto modulo 3 talentos digitales",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "talentos",
+    "digitales"
+  ],
+  "author": "Christian Daniel Gonzalez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
